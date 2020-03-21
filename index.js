@@ -1,1 +1,2 @@
-console.log('nihao')
+require('babel-core/register')
+require('./app.js')
